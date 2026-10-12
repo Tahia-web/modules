@@ -8,5 +8,5 @@ public class taxservice {
         double  tax =income* 0.12;
         System.out.println("tax = " + tax);
     }
-    
+
 }
