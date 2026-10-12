@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/business services/business services.iml" filepath="$PROJECT_DIR$/business services/business services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/government  app.iml" filepath="$PROJECT_DIR$/government  app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/identity services/identity services.iml" filepath="$PROJECT_DIR$/identity services/identity services.iml" />
+    </modules>
+  </component>
+</project>
